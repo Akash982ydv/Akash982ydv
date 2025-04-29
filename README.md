@@ -27,7 +27,7 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning “Frontend WebDev”. <img width="15%" align="right" alt="Github Image" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/linux_rounded.gif?raw=true" /><br>
+-  <img alt="GIF" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning “Artificial Intelligence and Machine Learning”. <img width="15%" align="right" alt="Github Image" src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/linux_rounded.gif?raw=true" /><br>
 - <img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring “Problem Solving”. <br>
 - <img src="https://github.com/mananbansal2002/mananbansal2002/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about “Competitive Programming, DSA”. <br>
 
