@@ -17,11 +17,11 @@
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "C++", "C", "Javascript" }
+    "ProgramingLanguages" : { "C++", "C", "Javascript","Python" }
     "OtherLanguages" : { "HTML", "CSS" },
-    "Libraries/Frameworks" : {"React JS"  , "Bootstrap CSS"  },
+    "Libraries/Frameworks" : {"React JS"  , "Bootstrap CSS" ,"Pandas","NumPy","TensorFlow","Keras","MatplotLib","SeaBorn","SkitLearn" },
     "Database" : { "Firebase" },
-    "Editors" : { "Vscode", "Sublime" },
+    "Editors" : { "Vscode", "Sublime" ,"Kaggle","GoogleCollab"},
     "Platforms" : { "GNU/Linux", "Windows" },
     "OtherTools" : { "Git", "Figma" }
 }
@@ -59,9 +59,7 @@ class About extends Me {
   
 
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-nigam-4b39a0224/
-<a href="https://leetcode.com/Samael3421/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="1806manan" height="30" width="40" /></a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/akash-yadav982/))
 
 
 </div>
