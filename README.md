@@ -4,7 +4,7 @@
   <br>
 <p>    <strong>M.Tech Research student at DTU. <br>
   Competitive Programmer :- <i>Newbie Codeforces </i> <br>
-  Front End Developer
+  AI/ML Enthusiasts 
 
 
 
